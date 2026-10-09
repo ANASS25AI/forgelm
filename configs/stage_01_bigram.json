@@ -1,0 +1,10 @@
+{
+  "batch_size": 32,
+  "block_size": 8,
+  "max_steps": 500,
+  "eval_interval": 100,
+  "eval_batches": 20,
+  "learning_rate": 0.01,
+  "seed": 1337
+}
+

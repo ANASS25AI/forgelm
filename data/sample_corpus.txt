@@ -1,0 +1,31 @@
+the small model reads one token and predicts the token that follows.
+the model begins with random numbers and learns from repeated examples.
+when a prediction is wrong the loss is large.
+when a prediction improves the loss becomes smaller.
+training changes the parameters a little at every step.
+the tokenizer converts text into integer identifiers.
+the batch builder creates inputs and their next token targets.
+the model converts each input token into scores for every possible next token.
+softmax converts the scores into probabilities.
+cross entropy measures how much probability the model gave the correct token.
+the optimizer uses gradients to update the model parameters.
+generation samples one new token and then repeats the same process.
+testing checks that every component obeys its mathematical contract.
+measurement tells us whether an optimization actually improved the system.
+research begins with a clear question and a reproducible baseline.
+the small model reads one token and predicts the token that follows.
+the model begins with random numbers and learns from repeated examples.
+when a prediction is wrong the loss is large.
+when a prediction improves the loss becomes smaller.
+training changes the parameters a little at every step.
+the tokenizer converts text into integer identifiers.
+the batch builder creates inputs and their next token targets.
+the model converts each input token into scores for every possible next token.
+softmax converts the scores into probabilities.
+cross entropy measures how much probability the model gave the correct token.
+the optimizer uses gradients to update the model parameters.
+generation samples one new token and then repeats the same process.
+testing checks that every component obeys its mathematical contract.
+measurement tells us whether an optimization actually improved the system.
+research begins with a clear question and a reproducible baseline.
+
